@@ -1,8 +1,9 @@
 <html>
 <head>
-<title> títol en el navegador </title>
+<title> GALERIA</title>
 </head>
 <body>
-cos de la pàgina
+galeria
+<a href="index.html">volver</a> 
 </body>
 </html>
